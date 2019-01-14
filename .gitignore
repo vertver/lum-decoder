@@ -131,3 +131,6 @@ x64/Release/lum-decoder.tlog/rc.command.1.tlog
 x64/Release/lum-decoder.tlog/rc.read.1.tlog
 x64/Release/lum-decoder.tlog/rc.write.1.tlog
 x64/Release/WindowsDecoder.res
+.vs/lum-decoder/v15/ipch/db67e61ced7dc12d.ipch
+.vs/lum-decoder/v15/ipch/9b3bb0fbf9f7c1a0.ipch
+x64/Release/lum-decoder.Build.CppClean.log

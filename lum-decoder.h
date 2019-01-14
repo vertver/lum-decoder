@@ -1,3 +1,13 @@
+/*********************************************************
+* Copyright (C) VERTVER, 2019. All rights reserved.
+* lum-decoder - open-source Windows transcoder
+* MIT-License
+**********************************************************
+* Module Name: lum kernel
+**********************************************************
+* lum-decoder.h
+* lum kernel implementation
+**********************************************************/
 #pragma once
 #include "resource.h"
 #include <mfapi.h>

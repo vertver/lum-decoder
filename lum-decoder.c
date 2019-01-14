@@ -1,4 +1,14 @@
-﻿#include "stdafx.h"
+﻿/*********************************************************
+* Copyright (C) VERTVER, 2019. All rights reserved.
+* lum-decoder - open-source Windows transcoder
+* MIT-License
+**********************************************************
+* Module Name: lum kernel
+**********************************************************
+* lum-decoder.c
+* lum kernel implementation
+**********************************************************/
+#include "stdafx.h"
 #include "lum-decoder.h"
 
 #define MAX_LOADSTRING 100

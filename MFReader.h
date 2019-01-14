@@ -1,3 +1,13 @@
+/*********************************************************
+* Copyright (C) VERTVER, 2019. All rights reserved.
+* lum-decoder - open-source Windows transcoder
+* MIT-License
+**********************************************************
+* Module Name: Windows Media Foundation
+**********************************************************
+* MFReader.h
+* Windows Media Foundation implementation
+**********************************************************/
 #pragma once
 #include "lum-decoder.h"
 
