@@ -1,6 +1,6 @@
 # Lum-decoder: Simple Windows Multi-transcoder
 
-
+![window example](https://github.com/Vertver/lum-decoder/blob/master/lum-view.png)
 
 # Required System: Windows 7 SP1 with Platform Update or greater
 
