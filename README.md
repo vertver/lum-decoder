@@ -16,6 +16,6 @@
 * for full version (coming soon): Install application at Program Files directory, after open lum-decoder.lnk on your desktop (if you're create icon). (vcruntime14 required)
 
 # 3rd-party
-* libsndfile
-* libsoxr
+* [libsndfile](https://github.com/erikd/libsndfile)
+* [libsoxr](https://github.com/chirlu/soxr)
 * Media Foundation
