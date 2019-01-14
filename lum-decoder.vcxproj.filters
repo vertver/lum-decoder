@@ -1,0 +1,58 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="lum-decoder.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="MFReader.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="stdafx.c">
+      <Filter>gen</Filter>
+    </ClCompile>
+    <ClCompile Include="WinKernel.c">
+      <Filter>src</Filter>
+    </ClCompile>
+    <ClCompile Include="Process.c">
+      <Filter>src</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="lum-decoder.h">
+      <Filter>src</Filter>
+    </ClInclude>
+    <ClInclude Include="Resource.h">
+      <Filter>gen</Filter>
+    </ClInclude>
+    <ClInclude Include="stdafx.h">
+      <Filter>gen</Filter>
+    </ClInclude>
+    <ClInclude Include="targetver.h">
+      <Filter>gen</Filter>
+    </ClInclude>
+    <ClInclude Include="MFReader.h">
+      <Filter>src</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <Image Include="small.ico">
+      <Filter>gen</Filter>
+    </Image>
+    <Image Include="WindowsDecoder.ico">
+      <Filter>gen</Filter>
+    </Image>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="src">
+      <UniqueIdentifier>{8572b3b2-9307-425f-9437-5c83a89f6c76}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="gen">
+      <UniqueIdentifier>{74890b52-3922-4e89-ba97-ab2e7b02fff1}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ResourceCompile Include="WindowsDecoder.rc">
+      <Filter>gen</Filter>
+    </ResourceCompile>
+  </ItemGroup>
+</Project>
